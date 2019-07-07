@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi primera App</string>
+    <string name="ingresar_mensaje">Ingresa una frase...</string>
+    <string name="copiar_mensaje">Tu frase aparecerá aquí...</string>
+</resources>
